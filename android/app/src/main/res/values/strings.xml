@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Nifty 500 Explorer</string>
-    <string name="title_activity_main">Nifty 500 Explorer</string>
+    <string name="app_name">Stock Explorer</string>
+    <string name="title_activity_main">Stock Explorer</string>
     <string name="package_name">com.nifty500.stockexplorer</string>
     <string name="custom_url_scheme">com.nifty500.stockexplorer</string>
 </resources>
+
